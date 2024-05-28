@@ -14,11 +14,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently Studyng on  Soy Estudiante
+- 🔭 I’m currently Studyng on 
   
 - 🌱 I’m currently learning Angular.
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to collaborate, Work 
   
 - 💬 Ask me about Sql, JavaScript, PHP and MongoDB
   
@@ -52,6 +52,6 @@
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+
 
 Last Edited on: 27/05/2024
