@@ -46,5 +46,18 @@
 
 <hr>
 
+<h2>GitHub Stats</h2>
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoGRJ&show_icons=true&hide_title=true)
+</p>
+
+<h2>Top Languages</h2>
+<p align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGRJ&layout=compact)
+</p>
+
+<hr>
+
 <p align="center">Last Edited on: 01/25/2025</p>
+
 
