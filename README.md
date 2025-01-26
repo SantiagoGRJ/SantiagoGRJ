@@ -14,13 +14,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently Studyng on 
+- 🔭 I’m currently Studyng on Software Development Engineering
   
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Next JS.
   
-- 👯 I’m looking to collaborate, Work 
+- 👯 I’m looking to work o collaborate
   
-- 💬 Ask me about Sql, JavaScript, PHP and MongoDB
+- 💬 Ask me about any questions.
   
 - ⚡ Fun fact: I like Back-End.
 
