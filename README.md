@@ -46,15 +46,12 @@
 
 <hr>
 
-<h2>Top Languages</h2>
+<h2>Repository Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGRJ&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGRJ&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoGRJ&show_icons=true&hide_title=true" alt="GitHub Stats" width="48%" />
 </p>
 
-<h2>GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoGRJ&show_icons=true&hide_title=true" alt="GitHub Stats" />
-</p>
 
 
 
